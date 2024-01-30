@@ -1,3 +1,4 @@
+#This script was written on 1.30.24 by Lmmp04 for a practical programming class. It features a calculator for the area of a circle, rectangle, or a triangle!
 print(".           \           L          PPPPPP     /")
 print(r".           \\          L          P    P   //")
 print(". ===========>>         L          PPPPPP   <<===========")
